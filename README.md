@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/54455748/89100884-394fbb00-d3fb-11ea-96c3-2ffe278c79a9.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/54455748/89100884-394fbb00-d3fb-11ea-96c3-2ffe278c79a9.gif" width="350" />
 
 I am a **Full Stack JavaScript Developer** based in Madrid, Spain.
 
