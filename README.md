@@ -6,7 +6,9 @@
 [![Web](https://img.shields.io/badge/-gonzalohernandez.es-0F9D58?style=flat&logo=google-chrome&logoColor=white)](http://gonzalohernandez.es/)
 [![Gmail Badge](https://img.shields.io/badge/-gonzalohernandez@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gonzalohernandez@icloud.com)
 
-I am a **Full Stack JavaScript Developer** based in Madrid, Spain. The main technologies I work with are ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
+I am a **Full Stack JavaScript Developer** based in Madrid, Spain. The main technologies I work with are:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hernandezgonzalo&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezgonzalo&layout=compact&hide=ruby)
