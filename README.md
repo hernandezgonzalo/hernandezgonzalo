@@ -17,5 +17,3 @@ I am a **Full Stack JavaScript Developer** based in Madrid, Spain. The main tech
 <!-- BLOG-POST-LIST:START -->
 - [Integración de una API de noticias con carga diferida en React](https://medium.com/@hernandezgonzalo/integraci%C3%B3n-de-una-api-de-noticias-con-carga-diferida-en-react-bfae85297fd1?source=rss-f115afe3114c------2)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left"><img src="https://github.com/hernandezgonzalo/hernandezgonzalo/workflows/Latest%20blog%20post%20workflow/badge.svg" /></p>
