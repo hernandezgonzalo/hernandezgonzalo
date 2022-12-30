@@ -18,4 +18,4 @@ I am a **Full Stack JavaScript Developer** based in Madrid, Spain. The main tech
 [![Linkedin Badge](https://img.shields.io/badge/-ghgarcia-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghgarcia/)
 [![Medium Badge](https://img.shields.io/badge/-@hernandezgonzalo-0A0A0A?style=flat&logo=medium&logoColor=white)](https://medium.com/@hernandezgonzalo)
 [![Web](https://img.shields.io/badge/-gonzalohernandez.dev-0F9D58?style=flat&logo=google-chrome&logoColor=white)](https://gonzalohernandez.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-hello@gonzalohernandez.dev-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@gonzalohernandez.dev)
+[![Gmail Badge](https://img.shields.io/badge/-mail@gonzalohernandez.dev-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@gonzalohernandez.dev)
